@@ -16,8 +16,3 @@ If you search on the Internet, you might stumble upon the following common proce
 
 
 
-After using this procedure, we get an output like this:
-
-
-![alt text](https://github.com/Kal-Sel/OpenCV---Image-to-pencil-sketch/blob/master/Opencv.png "Coloured to pencil sketch")
-(P.S- the picture is not mine)
